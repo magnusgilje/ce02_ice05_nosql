@@ -1,0 +1,5 @@
+fastapi==0.72.0
+uvicorn==0.17.0
+git+https://kubrick-training@dev.azure.com/kubrick-training/ce02/_git/python_circle
+git+https://dev.azure.com/kubrick-training/ce02/_git/python_jtm_hailstone
+azure-cosmos==4.2.0

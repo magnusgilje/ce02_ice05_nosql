@@ -1,0 +1,4 @@
+safety
+pylint==2.12.1
+pytest==6.2.5
+distutils-pytest==0.1
